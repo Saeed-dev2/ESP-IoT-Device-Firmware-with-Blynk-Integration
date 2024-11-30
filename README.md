@@ -1,5 +1,4 @@
-
-* ## ESP IoT Devices Firmware with Blynk Integration
+## ESP IoT Devices Firmware with Blynk Integration
 
  * This Project provides a detailed overview of the firmware designed for ESP8266/ESP32 microcontrollers, utilizing the Blynk platform for remote control and monitoring. The firmware supports various board configurations and includes features such as reset button functionality, LED indicators, Over-the-Air (OTA) updates, and configuration management.
  
